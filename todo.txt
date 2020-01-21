@@ -1,0 +1,7 @@
+Changes
+  - Allow for more posts to be processed at one time (top 3 of today?)
+  - Change TtS voice (UK/AU male?)
+  - Shorten audio gap between comments (ffmpeg code error?)
+  - Handle [removed] comments
+  - Background music
+  - Concat audio
